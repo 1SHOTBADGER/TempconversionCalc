@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<ctype.h>
+#include <ctype.h>
 //im gonna make a temerature conversion calculato
 int main(){
 
